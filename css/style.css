@@ -1,6 +1,9 @@
-#titolo_header{
+div{
     background-color: aqua;
 }
 h1{
     color: blue;
+}
+b{
+    color: aqua;
 }
