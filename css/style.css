@@ -1,5 +1,6 @@
 #footer{
     text-align: center;
+    color: white;
 }
 b{
     color: rgb(0, 200, 255);
@@ -10,12 +11,12 @@ b{
 }
 #finale{
     height: 50px;;
-    background-color: rgb(0, 85, 119);
+    background-color: rgb(42, 14, 134);
     font-size: small;
 }
 .paragrafo{
     font-size: smaller;
-    
+
 }
 tr:nth-child(even){
     background-color: rgb(190, 217, 237);
