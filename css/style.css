@@ -1,9 +1,12 @@
-div{
-    background-color: aqua;
-}
-h1{
-    color: blue;
+#footer{
+    text-align: center;
 }
 b{
     color: aqua;
+}
+#header{
+    background-color: aqua;
+}
+#finale{
+    background-color: blue;
 }
